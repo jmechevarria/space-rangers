@@ -1,0 +1,28 @@
+{
+  "missions": [
+    {
+      "id": 1,
+      "title": "Rescue cat stuck in asteroid",
+      "reward": 500,
+      "active": true,
+      "createdBy": "user",
+      "createdAt": "2024-06-17T22:34:30.838Z"
+    },
+    {
+      "id": 2,
+      "title": "Escort Royal Fleet",
+      "reward": 5000,
+      "active": true,
+      "createdBy": "user",
+      "createdAt": "2024-06-17T22:34:30.838Z"
+    },
+    {
+      "id": 3,
+      "title": "Pirates attacking the station",
+      "reward": 2500,
+      "active": false,
+      "createdBy": "user",
+      "createdAt": "2024-06-17T22:34:30.838Z"
+    }
+  ]
+}
